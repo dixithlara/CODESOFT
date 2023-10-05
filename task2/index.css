@@ -1,0 +1,72 @@
+header{
+    text-align:center;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+#ihold{
+    margin: auto;
+    text-align: center;
+    background-color: whitesmoke;
+}
+#hold{
+    border-color: black;
+    border-radius: 20px;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+    background-color: whitesmoke;
+    height:300px;
+    width: 40%;
+}
+#inputf{
+    border-radius: 15px;
+    width: 50%;
+    height: 25px;
+}
+#addbtn{
+    border-radius: 15px;
+    height: 30px;
+}
+p{
+    text-align: left;
+}
+
+/*js*/
+.div{
+    background-color: whitesmoke;
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+}
+.conatin {
+    display: flex;
+}
+.but{
+    border-radius: 15px;
+    height: 30px;
+    width: 40px;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
